@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20xTerningSpil", "20xTerningSpil\20xTerningSpil.csproj", "{9CD922B1-0FDB-4E73-8C19-47B25CBF5B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD922B1-0FDB-4E73-8C19-47B25CBF5B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD922B1-0FDB-4E73-8C19-47B25CBF5B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD922B1-0FDB-4E73-8C19-47B25CBF5B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD922B1-0FDB-4E73-8C19-47B25CBF5B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE31881-CED7-4939-BCFC-73167272DDE2}
+	EndGlobalSection
+EndGlobal
